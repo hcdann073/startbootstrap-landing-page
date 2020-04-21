@@ -18,6 +18,13 @@ h6 {
   font-weight: 700;
 }
 
+nav.logo {
+	background: url("../img/R1_Light_Logo.jpg") no-repeat;
+	width:100px;
+	height: auto;
+	display: block;
+	text-indent:-9999px;
+}
 header.masthead {
   position: relative;
   background-color: #343a40;
