@@ -20,10 +20,7 @@ h6 {
 
 a.logo {
 	background: url("../img/R1_Light_Logo.jpg") no-repeat;
-	width:100px;
-	height: auto;
-	display: block;
-	text-indent:-9999px;
+	background-size:200px
 }
 header.masthead {
   position: relative;
