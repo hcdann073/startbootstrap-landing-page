@@ -19,8 +19,12 @@ h6 {
 }
 
 a.logo {
+	display: inline-block;
 	background: url("../img/R1_Light_Logo.jpg") no-repeat;
-	background-size:200px
+	background-size:200px;
+	width: 200px;
+	height: 50px;
+	background-position: center;
 }
 header.masthead {
   position: relative;
