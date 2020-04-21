@@ -18,7 +18,7 @@ h6 {
   font-weight: 700;
 }
 
-navbar.logo {
+a.logo {
 	background: url("../img/R1_Light_Logo.jpg") no-repeat;
 	width:100px;
 	height: auto;
