@@ -4156,6 +4156,10 @@ input[type="button"].btn-block {
   justify-content: space-between;
   padding: 0.5rem 1rem;
 }
+.navbar-default {
+	background-color: #f8f8f8;
+	border-color: #e7e7e7;
+}
 
 .navbar > .container,
 .navbar > .container-fluid {
