@@ -4160,6 +4160,16 @@ input[type="button"].btn-block {
 	background-color: #f8f8f8;
 	border-color: #e7e7e7;
 }
+.navbar-default .navbar-toggler .icon-bar {
+    background-color: #888;
+}
+
+.navbar-toggle .icon-bar {
+    display: block;
+    width: 22px;
+    height: 2px;
+    border-radius: 1px;
+}
 
 .navbar > .container,
 .navbar > .container-fluid {
@@ -4283,7 +4293,7 @@ input[type="button"].btn-block {
     flex-basis: auto;
   }
   .navbar-expand-sm .navbar-toggler {
-    display: none;
+    display: block;
   }
 }
 
@@ -4327,6 +4337,9 @@ input[type="button"].btn-block {
   .navbar-expand-md .navbar-toggler {
     display: none;
   }
+.navbar-header {
+	float: left;
+}
 }
 
 @media (max-width: 991.98px) {
